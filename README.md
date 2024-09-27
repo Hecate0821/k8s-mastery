@@ -206,7 +206,7 @@ sa-frontend-lb   LoadBalancer   34.118.233.238   34.31.104.12    80:31378/TCP   
 
 Access `34.31.104.12:80`
 
-# Relatice URLs
+# Relative URLs
 
 ## Dockek Images:
 https://hub.docker.com/layers/hecate0821/sentiment-analysis-frontend/stable/images/sha256:de180be9d27d4764e840c4ac77c215736166017831f9c0f51fe8a249fae11aa3?uuid=0ED3DC3E-3CC1-436D-B622-E5793E80835B
