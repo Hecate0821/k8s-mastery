@@ -204,4 +204,4 @@ Get the external IP of frontend service
 sa-frontend-lb   LoadBalancer   34.118.233.238   34.31.104.12    80:31378/TCP     7m40s
 ```
 
-Access 34.31.104.12:80
+Access `34.31.104.12:80`
