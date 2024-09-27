@@ -21,7 +21,7 @@ spec:
         app: sa-frontend                                  # 6
     spec:
       containers:
-        - image: rinormaloku/sentiment-analysis-frontend
+        - image: hecate0821/sentiment-analysis-frontend:latest
           imagePullPolicy: Always                         # 7
           name: sa-frontend
           ports:

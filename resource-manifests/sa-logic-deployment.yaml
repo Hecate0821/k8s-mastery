@@ -21,7 +21,7 @@ spec:
         app: sa-logic
     spec:
       containers:
-        - image: rinormaloku/sentiment-analysis-logic
+        - image: hecate0821/sentiment-analysis-logic:latest
           imagePullPolicy: Always
           name: sa-logic
           ports:
